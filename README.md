@@ -14,7 +14,9 @@ I'm always trying to grow🌱 and learn something new. I lose track of time when
 Find me around the web :earth_americas: : 
 
   :pushpin: Connecting and sharing professional updates on LinkedLn
+
   :computer: Updating my personal website with examples of my work on ...
+
   :scroll: Writing on a wide range of topics regarding front-end development ...
 
 Languages
