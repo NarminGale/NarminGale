@@ -7,6 +7,7 @@
 -->
 
 I'm a Front-End Developer :octocat: who is strive while utilising both the logical and creative part of the brain.
+
 I am a proactive✨, confident✨, and positive✨ person always looking ahead in the future.
 
 I'm always trying to grow🌱 and learn something new. I lose track of time when I'm playing the ukulele :guitar:, studying languages :crystal_ball: or simply reading a good book :books: .
