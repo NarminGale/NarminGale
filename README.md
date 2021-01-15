@@ -6,14 +6,14 @@
 
 -->
 
-I'm a Front-End Developer who is strive while utilising both the logical and creative part of the brain.
-I am a proactive, confident and positive person always looking ahead in the future.
+I'm a Front-End Developer :octocat: who is strive while utilising both the logical and creative part of the brain.
+I am a proactive✨, confident✨, and positive✨ person always looking ahead in the future.
 
-I'm always trying to grow and learn something new. I lose track of time when I'm playing the ukulele, studying languages or simply reading a good book.
+I'm always trying to grow🌱 and learn something new. I lose track of time when I'm playing the ukulele :guitar:, studying languages :crystal_ball: or simply reading a good book :books: .
 
 Find me around the web :earth_americas: : 
-  Connecting and sharing professional updates on LinkedLn
-  Updating my personal website with examples of my work on ...
+  :pushpin: Connecting and sharing professional updates on LinkedLn
+  :computer: Updating my personal website with examples of my work on ...
   :scroll: Writing on a wide range of topics regarding front-end development ...
 
 Languages
