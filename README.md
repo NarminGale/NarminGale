@@ -51,7 +51,7 @@
 
 <p align="center">
     <a href="https://github.com/NarminGale/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narmin Gale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NarminGale&theme=rogue&hide_border=true"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narmin Gale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NarminGale&theme=ayu-mirage&hide_border=true"/>
     </a>
 </p>
 
