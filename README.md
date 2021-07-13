@@ -12,9 +12,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Narmin</h1>
 <h3 align="center">I'm a Front-End Developer :octocat: who is strive while utilising both the logical and creative part of the brain.
 </h3>
-<p>I am a proactive✨, confident✨, and positive✨ person always looking ahead in the future.
-
-I'm always trying to grow🌱 and learn something new. </p>
+<p>I am a proactive✨, confident✨, and positive✨ person always looking ahead in the future. I'm always trying to grow🌱 and learn something new. </p>
 
 
 ## 🙋‍Talking about Personal Stuff:
