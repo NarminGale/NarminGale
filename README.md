@@ -15,13 +15,13 @@
    I'm always trying to grow🌱 and learn something new. </p>
 
 
-## 🙋‍Talking about Personal Stuff:
+## :blonde_woman:Talking about Personal Stuff:
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🙋‍ All of my projects are available at **[My Portfolio]**
+- :woman_technologist: All of my projects are available at **[My Portfolio]**
 
 - 💬 Ask me about anything. I'm happy to help
 
