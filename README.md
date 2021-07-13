@@ -1,4 +1,3 @@
-### Hi, I'm Narmin 👋:woman_technologist:
 
 <!--
 **NarminGale/NarminGale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,9 +5,10 @@
 
 -->
 
-<a href="#"><img width="200px" height="200px" src="https://media0.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif?cid=790b76116ec9195b32307e054e4d5bd6bb3e0f57673370ec&rid=giphy.gif&ct=s" height="175px"/></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Narmin</h1>
+<a href="#"><img width="200px" height="200px" src="https://media0.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif?cid=790b76116ec9195b32307e054e4d5bd6bb3e0f57673370ec&rid=giphy.gif&ct=s" height="175px"/></a>
 <h3 align="center">I'm a Front-End Developer :octocat: who is strive while utilising both the logical and creative part of the brain.
 </h3>
 <p>I am a proactive✨, confident✨, and positive✨ person always looking ahead in the future. I'm always trying to grow🌱 and learn something new. </p>
