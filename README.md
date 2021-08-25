@@ -21,8 +21,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- :woman_technologist: All of my projects are available at **[My Portfolio]**
-
+<!-- - :woman_technologist: All of my projects are available at **[My Portfolio]**
+ -->
 - 💬 Ask me about anything. I'm happy to help
 
 - 📫 How to reach me **narmingale@gmail.com**
