@@ -32,7 +32,6 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.w3schools.com/sass/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
