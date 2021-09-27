@@ -12,7 +12,7 @@
 <h3 align="center">I'm a Front-End Developer :octocat:  <br/> who is strive while utilising both the logical and creative part of the brain.
 </h3>
 <p>I am a proactive✨, confident✨ and positive✨ person always looking ahead in the future. <br/>
-   I'm always trying to grow🌱 and learn something new. </p>
+   I'm always trying to grow and learn something new. </p>
 
 
 ## :blonde_woman:Talking about Personal Stuff:
