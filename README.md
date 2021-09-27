@@ -75,10 +75,10 @@
 <br/>
 <br/>
 
-## Find me around the web :earth_americas: : 
+<!-- ## Find me around the web :earth_americas: : 
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/narminali/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://github.com/NarminGale/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a> -->
 </p>
-
+ -->
