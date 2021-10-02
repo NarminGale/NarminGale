@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **narmingale@gmail.com**
 
-- ⚡ Fun fact **I lose track of time when I'm playing the ukulele :guitar:, studying languages :crystal_ball: or simply reading a good book :books: .**
+- ⚡ Fun fact: **I lose track of time when I'm playing the ukulele :guitar:, studying languages :crystal_ball: or simply reading a good book :books: .**
 
 ## 🚀 Languages and Tools:
 
