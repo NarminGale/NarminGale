@@ -75,6 +75,8 @@
 <br/>
 <br/>
 
+![](https://komarev.com/ghpvc/?username=NarminGale&color=green)
+
 <!-- ## Find me around the web :earth_americas: : 
 <p align="left">
 
