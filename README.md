@@ -73,7 +73,6 @@
 <a href="https://github.com/NarminGale/github-readme-activity-graph"><img alt="NarminGale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NarminGale&theme=rogue&hide_border=true" /></a>
 
 <br/>
-<br/>
 
 ![](https://komarev.com/ghpvc/?username=NarminGale&color=blueviolet&style=flat)
 
