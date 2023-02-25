@@ -17,7 +17,7 @@
 
 ## :blonde_woman:Talking about Personal Stuff:
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
